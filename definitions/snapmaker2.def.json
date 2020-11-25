@@ -12,7 +12,7 @@
         "machine_extruder_trains": {
             "0": "snapmaker_extruder_0"
         },
-        "has_materials": false,
+        "has_materials": true,
         "has_machine_quality": true,
         "preferred_quality_type": "normal"
     },
